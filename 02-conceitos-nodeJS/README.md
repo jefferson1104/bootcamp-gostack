@@ -20,12 +20,15 @@
 ## :ballot_box_with_check: Desafio conceitos do nodeJS com testes automatizados
 <p> Desafio onde utilizei Recurso/Rota com metodos HTTP como GET, POST, PUT, DELETE, e tipos de parametros como route params, query params e request body, tambem utilizado http codes para retornar status e passar nos testes automatizados, cada metodo foi necessario criar uma logica para passar nos testes automatizados.<p>
 
-<p><strong>OBS:</strong> Importante criar um conteudo nesta api, para isto entenda os endpoints, e veja um exemplo de Objeto para inserir atraves do metodo POST, utilize o POSTMAN ou INSOMNIA para interagir com esta api:</p>
+<p><strong>OBS:</strong> Importante criar um conteudo nesta api, para isto entenda os endpoints, e veja um exemplo de objeto json para inserir dados atraves do metodo POST, utilize o POSTMAN ou INSOMNIA para interagir com os endpoints desta api:</p>
 
 ## :writing_hand: Entendendo a API e inserindo conteudo
 ```bash
 # BASE URL 
 http://localhost:3333
+
+# GET: endpoint para listar todos repositorios
+http://localhost:3333/repositories
 
 # POST: endpoint para inserir novos repositorios
 http://localhost:3333/repositories
