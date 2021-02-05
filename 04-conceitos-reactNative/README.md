@@ -18,28 +18,36 @@
 
 
 ### :ballot_box_with_check: Desafio conceitos do React Native com testes automatizados
-<p> Desafio onde utilizei conceitos do ReactNative, entendendo os componentes proprios, como fazer uma estilização dos componentes, neste app tambem consumimos uma api, criamos esta api no desafio 2 sobre coneceitos-nodeJS.<p>
+Desafio onde utilizei conceitos do ReactNative, entendendo quais são os componentes proprios e como eles funcionam, como fazer uma estilização dos componentes, neste projeto também utilizo um consumo do backend (API) [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/conceitos-nodeJS).
 
-<p><strong>OBS:</strong> Importante antes de executar este projeto, certificar de iniciar o backend (API) e inserir algumas informações no endpoint POST para criar repositorios, veja como fazer no repositorio de conceitos-nodeJS.</p>
+### NOTA IMPORTANTE!!!
+Importante antes de executar este projeto, certificar de iniciar o backend (API) e inserir no minimo uma informação nesta api, veja como fazer no repositorio de [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/conceitos-nodeJS)
 
 ### :cyclone: Como executar este projeto
 ```bash
 # Após configurado e iniciado a API e também inserido novos dados, vamos executar nosso projeto react native.
 
-# Clone este repositório
-$ git clone <link-do-repositorio>
-
 # Acesse a pasta do projeto no terminal/cmd
-$ cd diretorio-do-clone
+$ cd 04-conceitos-reactNative
 
-# Instale os modulos utilizando o gerenciador de pacotes yarn ou npm
+# Instale as bibiliotecas utilizando o gerenciador yarn ou NPM
 $ yarn
+$ npm install
 
 # Inicie seu emular ou faça a conexao do seu smartphone utilizando o EXPO
-<br>
-# Faça a instalação do app android/ios em seu smartphone ou emulador com o gerenciador de pacotes yarn
+saiba como utilizar o expo com este guia
+https://rogercruz.medium.com/react-native-com-expo-um-exemplo-40e5574c6904
+
+aqui tambem esta a documentação oficial:
+https://docs.expo.io/workflow/expo-cli/
+
+# Faça a instalação do app android/ios em seu emulador ou smartphone caso estiver utilizando
+# o expo, para a instalação execute os comandos abaixo com o gerenciador de pacotes yarn ou NPM
 $ yarn android
 $ yarn ios
+
+$ npm run android
+$ npm run ios
 
 # ou  faça a instalaçao utilizando o gerenciador de pacotes NPM
 $ npm run android
