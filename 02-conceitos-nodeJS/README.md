@@ -49,16 +49,14 @@ http://localhost:3333/repositories/:id/like
 
 ## :cyclone: Como executar este projeto
 ```bash
-# Clone este repositório
-$ git clone https://github.com/jefferson1104/go-restaurant-react-native.git
+# Acesse a pasta do projeto
+$ cd 02-conceitos-nodeJS
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd go-restaurant-react-native
-
-# Instale os modulos utilizando o gerenciador de pacotes yarn ou npm
+# Instale as bibiliotecas utilizando o gerenciador yarn ou NPM
 $ yarn
+$ npm install
 
-# Inicie com yarn o npm
+# Inicie com o gerenciador yarn ou npm
 $ yarn dev
 $ npm run dev
 ```
