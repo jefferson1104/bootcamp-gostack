@@ -49,19 +49,16 @@ $ yarn ios
 $ npm run android
 $ npm run ios
 
-# ou  faça a instalaçao utilizando o gerenciador de pacotes NPM
-$ npm run android
-$ npm run ios
-
-# inicie o app 
+# inicie o app com o gerenciador de pacotes yarn ou NPM
 $ yarn start
 $ npm run start
 
 # Caso esteja utilizando um emulador Android execute o comando abaixo
 $ adb reverse tcp:3333 tcp:3333
 
-# Inicie o app
+# Inicie o app com o gerenciador de pacotes yarn ou NPM
 $ yarn start
+$ npm run start
 ```
 
 ### 🎨 Screenshot
