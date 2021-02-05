@@ -18,27 +18,25 @@
 
 
 ## :ballot_box_with_check: Desafio conceitos do ReactJS com testes automatizados
-<p> Desafio onde utilizei conceitos do ReactJS, como componentização, propriedades, estado e imutabilidade, foi realizado uma conexão com api do backend criado no desafio 02 em conceitos nodeJS, e ao consumir essa api criamos uma funcao para criar e deletar repositorios, alem de listar com um botao de adicionar e com botoes de remover de acordo com cada id do repositorio.<p>
+Desafio onde utilizei conceitos do reactJS, por exemplo componentização, propriedades, estado, imutabilidade e etc. Neste projeto realizamos uma conexão com o backend (API) criado no desafio [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/conceitos-nodeJS), e ao consumir essa api criamos uma funcao para criar e deletar repositorios, alem de listar com um botao de adicionar e com botoes de remover de acordo com cada id do repositorio.
 
 ### NOTA IMPORTANTE!!!
-Importante antes de executar este projeto, certificar de iniciar o backend (API) e inserir no minimo uma informação nesta api, veja como fazer no repositorio de [conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/conceitos-nodeJS)
+Importante antes de executar este projeto, certificar de iniciar o backend (API) e inserir no minimo uma informação nesta api, veja como fazer no repositorio de [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/conceitos-nodeJS)
  
 ## :cyclone: Como executar este projeto
 ```bash
 # Após configurado e iniciado a API e também inserido novos dados, vamos executar nosso projeto react native.
 
-# Clone este repositório
-$ git clone <link-do-repo>
+# Acesse a pasta do projeto
+$ cd 03-conceitos-reactJS
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd diretorio-do-webapp
-
-# Instale os modulos utilizando o gerenciador de pacotes yarn ou npm
+# Instale as bibiliotecas utilizando o gerenciador yarn ou NPM
 $ yarn
+$ npm install
 
-# Inicie com yarn o npm
-$ yarn dev
-$ npm run dev
+# Inicie com o gerenciador yarn ou npm
+$ yarn start
+$ npm run start
 ```
 
 ### 🎨 Screenshots
