@@ -80,13 +80,13 @@ $ npm run dev:server
 ```
 ### 🎨 Screenshot
 <p align="center">
-  <img width="80%" src="./assets/screenshot01.png">
+  <img width="80%" src="./assets/screenshot-01.png">
 </p>
 <p align="center">
-  <img width="80%" src="./assets/screenshot02.png">
+  <img width="80%" src="./assets/screenshot-02.png">
 </p>
 <p align="center">
-  <img width="80%" src="./assets/screenshot03.png">
+  <img width="80%" src="./assets/screenshot-03.png">
 </p>
 
 ## :memo: Licença
