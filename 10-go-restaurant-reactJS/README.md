@@ -1,5 +1,6 @@
-
-<img src="assets/screenshot.png">
+<p align="center">
+  <img src="assets/bootcamp-cover.png">
+</p>
 
 <h2 align="center">
   GoRestaurant Web
@@ -54,6 +55,11 @@ $ yarn json-server server.json -p 3333
 $ yarn start
 
 ```
+
+### 🎨 Screenshot
+<p align="center">
+  <img src="assets/screenshot.png">
+</p>
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/LICENSE) para mais detalhes.
