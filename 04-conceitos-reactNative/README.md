@@ -18,10 +18,10 @@
 
 
 ### :ballot_box_with_check: Desafio conceitos do React Native com testes automatizados
-Desafio onde utilizei conceitos do ReactNative, entendendo quais são os componentes proprios e como eles funcionam, como fazer uma estilização dos componentes, neste projeto também utilizo um consumo do backend (API) [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/conceitos-nodeJS).
+Desafio onde utilizei conceitos do ReactNative, entendendo quais são os componentes proprios e como eles funcionam, como fazer uma estilização dos componentes, neste projeto também utilizo um consumo do backend (API) [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/02-conceitos-nodeJS).
 
 ### NOTA IMPORTANTE!!!
-Importante antes de executar este projeto, certificar de iniciar o backend (API) e inserir no minimo uma informação nesta api, veja como fazer no repositorio de [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/conceitos-nodeJS)
+Importante antes de executar este projeto, certificar de iniciar o backend (API) e inserir no minimo uma informação nesta api, veja como fazer no repositorio de [02-conceitos-nodeJS](https://github.com/jefferson1104/bootcamp-gostack/tree/master/02-conceitos-nodeJS)
 
 ### :cyclone: Como executar este projeto
 ```bash
