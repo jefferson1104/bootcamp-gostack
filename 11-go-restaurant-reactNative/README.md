@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/bootcamp-cover.png">
+</p>
+
 <h2 align="center">
   GoRestaurant Mobile
 </h2>
@@ -19,11 +23,11 @@
 
 <br>
 
-## :writing_hand: Sobre este projeto
+### :writing_hand: Sobre este projeto
 Essa será um app android/ios que irá se conectar a uma fake API, e exibir os pratos de comida para os usuarios realizar pedidos.
 
 
-## :man_technologist: Técnologias do projeto
+### :man_technologist: Técnologias do projeto
 <ul>
   <li>React Native</li>
   <li>TypeScript</li>
@@ -32,7 +36,7 @@ Essa será um app android/ios que irá se conectar a uma fake API, e exibir os p
 </ul>
 
 
-## :cyclone: Como executar este projeto
+### :cyclone: Como executar este projeto
 ```bash
 # Clone este repositório
 $ git clone https://github.com/jefferson1104/go-restaurant-react-native.git
@@ -58,9 +62,13 @@ $ yarn json-server server.json -p 3333
 $ yarn start
 
 ```
+### 🎨 Screenshot
+<p align="center">
+  <img src="assets/images/Screenshot01.png" width=300>
+  <img src="assets/images/Screenshot02.png" width=300>
+</p>
 
-<img src="assets/images/Screenshot01.png" width=300>
-<img src="assets/images/Screenshot02.png" width=300>
+
 
 
 ## :memo: Licença
