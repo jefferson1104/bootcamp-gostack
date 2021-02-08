@@ -53,7 +53,7 @@ http://localhost:3333/transactions/import
   "title": "Pagamento mensal",
   "type": "income",
   "value": 1559.90,
-  "category": ["pagamentos"]
+  "category": "pagamentos"
 }
 
 # Exemplo de JSON para inserir dados outcome
@@ -61,7 +61,7 @@ http://localhost:3333/transactions/import
   "title": "Javascript ES6",
   "type": "outcome",
   "value": 69.90,
-  "category": ["cursos"]
+  "category": "cursos"
 }
 ```
 
